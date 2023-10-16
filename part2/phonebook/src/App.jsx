@@ -45,14 +45,15 @@ const App = () => {
           })
       )
       : (
-        setPersons(persons.concat(contact),
           personService
             .create(contact)
             .then(newPerson => {
               console.log("The created contact = ", newPerson)
-            })),
-        setMessage(`Added ${contact.name}`),
-        setTimeout(() => setMessage(null),5000)
+              setPersons(persons.concat(contact))
+              setMessage(`Added ${contact.name}`),
+              setTimeout(() => setMessage(null),5000)
+            })
+        
       )
 
 
