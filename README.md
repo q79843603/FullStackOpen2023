@@ -4,14 +4,13 @@ This course will introduce you to modern JavaScript-based web development. The m
 
 The link to the course : https://fullstackopen.com/en/about and the relative projects.
 
-## Part0
 
-## Part1
+# Technologies involved
 
-## Part2
+FrontEnd: Node.js, React, Vite, HTML, JavaScript, Ajax, Redux
 
-## Part3
+BackEnd: Node.js, REST APIs, MongoDB, Nodemon, bcrypt, Postman
 
-## Part4
+Version Control: Git
 
-## Part5
+Testing: Jest, Cypress, Supertest
