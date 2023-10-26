@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "cross-env NODE_ENV=test nodemon index.js",
     "start": "cross-env NODE_ENV=production node index.js",
-    "test": "cross-env NODE_ENV=test jest --verbose --runInBand"
+    "test": "cross-env NODE_ENV=test jest --verbose --runInBand",
+    "start:test": "cross-env NODE_ENV=test node index.js"
   },
   "author": "Tim Wong",
   "license": "MIT",
