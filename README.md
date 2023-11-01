@@ -16,3 +16,9 @@ CSS Framework: BootStrap
 Version Control: Git
 
 Testing: Jest, Cypress, Supertest
+
+# Course Certificate
+
+Certificate of Completing Part 0 - Part 7
+
+![image](https://github.com/tyw05/FullStackOpen2023/assets/120542125/2013a729-a532-4229-8f73-6682f583a704)
