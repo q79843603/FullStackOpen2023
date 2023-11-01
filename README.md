@@ -11,6 +11,8 @@ FrontEnd: Node.js, React, Vite, HTML, JavaScript, Ajax, Redux
 
 BackEnd: Node.js, REST APIs, MongoDB, Nodemon, bcrypt, Postman
 
+CSS Framework: BootStrap
+
 Version Control: Git
 
 Testing: Jest, Cypress, Supertest
