@@ -9,7 +9,7 @@ The link to the course : https://fullstackopen.com/en/about and the related proj
 
 FrontEnd: Node.js, React, Vite, HTML, JavaScript, Ajax, Redux
 
-BackEnd: Node.js, REST APIs, MongoDB, Nodemon, bcrypt, Postman
+BackEnd: Node.js, Express.js, REST APIs, MongoDB, Mongoose, Nodemon, bcrypt, Postman
 
 CSS Framework: BootStrap
 
