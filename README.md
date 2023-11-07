@@ -21,21 +21,21 @@ Testing: Jest, Cypress, Supertest
 
 <a href="https://fullstackopen.com/en/part0">Part 0 Fundatmentals of Web apps </a>
 
-<a href="https://fullstackopen.com/en/part0">Part 1 Introduction to React </a>
+<a href="https://fullstackopen.com/en/part1">Part 1 Introduction to React </a>
 
-<a href="https://fullstackopen.com/en/part0">Part 2 Communicating with server </a>
+<a href="https://fullstackopen.com/en/part2">Part 2 Communicating with server </a>
 
-<a href="https://fullstackopen.com/en/part0">Part 3 Programming a server with NodeJS and Express </a>
+<a href="https://fullstackopen.com/en/part3">Part 3 Programming a server with NodeJS and Express </a>
 
-<a href="https://fullstackopen.com/en/part0">Part 4 Testing Express servers, user administration </a>
+<a href="https://fullstackopen.com/en/part4">Part 4 Testing Express servers, user administration </a>
 
-<a href="https://fullstackopen.com/en/part0">Part 5 Testing React apps </a>
+<a href="https://fullstackopen.com/en/part5">Part 5 Testing React apps </a>
 
-<a href="https://fullstackopen.com/en/part0">Part 6 Advanced state management </a>
+<a href="https://fullstackopen.com/en/part6">Part 6 Advanced state management </a>
 
-<a href="https://fullstackopen.com/en/part0">Part 7 React router, custom hooks, styling app with CSS and webpack </a>
+<a href="https://fullstackopen.com/en/part7">Part 7 React router, custom hooks, styling app with CSS and webpack </a>
 
-<a href="https://fullstackopen.com/en/part0">Part 8 GraphQL </a>
+<a href="https://fullstackopen.com/en/part8">Part 8 GraphQL </a>
 
 
 # Course Certificate
