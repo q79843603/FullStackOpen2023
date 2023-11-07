@@ -17,6 +17,19 @@ Version Control: Git
 
 Testing: Jest, Cypress, Supertest
 
+# Course Info
+
+<h2><a href="https://fullstackopen.com/en/part0">Part 0 Fundatmentals of Web apps </a></h2>
+<h2><a href="https://fullstackopen.com/en/part0">Part 1 Introduction to React </a></h2>
+<h2><a href="https://fullstackopen.com/en/part0">Part 2 Communicating with server </a></h2>
+<h2><a href="https://fullstackopen.com/en/part0">Part 3 Programming a server with NodeJS and Express </a></h2>
+<h2><a href="https://fullstackopen.com/en/part0">Part 4 Testing Express servers, user administration </a></h2>
+<h2><a href="https://fullstackopen.com/en/part0">Part 5 Testing React apps </a></h2>
+<h2><a href="https://fullstackopen.com/en/part0">Part 6 Advanced state management </a></h2>
+<h2><a href="https://fullstackopen.com/en/part0">Part 7 React router, custom hooks, styling app with CSS and webpack </a></h2>
+<h2><a href="https://fullstackopen.com/en/part0">Part 8 GraphQL </a></h2>
+
+
 # Course Certificate
 
 Certificate of Completing Part 0 - Part 7
