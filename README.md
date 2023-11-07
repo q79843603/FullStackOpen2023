@@ -20,13 +20,21 @@ Testing: Jest, Cypress, Supertest
 # Course Info
 
 <a href="https://fullstackopen.com/en/part0">Part 0 Fundatmentals of Web apps </a>
+
 <a href="https://fullstackopen.com/en/part0">Part 1 Introduction to React </a>
+
 <a href="https://fullstackopen.com/en/part0">Part 2 Communicating with server </a>
+
 <a href="https://fullstackopen.com/en/part0">Part 3 Programming a server with NodeJS and Express </a>
+
 <a href="https://fullstackopen.com/en/part0">Part 4 Testing Express servers, user administration </a>
+
 <a href="https://fullstackopen.com/en/part0">Part 5 Testing React apps </a>
+
 <a href="https://fullstackopen.com/en/part0">Part 6 Advanced state management </a>
+
 <a href="https://fullstackopen.com/en/part0">Part 7 React router, custom hooks, styling app with CSS and webpack </a>
+
 <a href="https://fullstackopen.com/en/part0">Part 8 GraphQL </a>
 
 
